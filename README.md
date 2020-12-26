@@ -8,7 +8,7 @@ Para testar a versão ao vivo, [clique aqui.](https://cursos-e-estudos.github.io
 <b> Visual desktop </b>
 </p>
 <p align="center">
-  <img width="720" src="imgs/screenshot1.png">
+  <img width="720" src="assets/screenshots/screenshot1.png">
 </p>
 
 <br>
@@ -22,8 +22,8 @@ Para testar a versão ao vivo, [clique aqui.](https://cursos-e-estudos.github.io
 <b> Visual mobile </b>
 </p>
 <p align="center">
-  <img width="200" src="imgs/screenshot2.png">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img width="200" src="imgs/screenshot3.png">
+  <img width="200" src="assets/screenshots/screenshot2.png">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img width="200" src="assets/screenshots/screenshot3.png">
 </p>
 
 ---
